@@ -1,0 +1,21 @@
+.App {
+  padding-top: 36px;
+  text-align: center;
+}
+
+.SearchForm-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.CarsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.CarsList-item {
+  margin-bottom: 24px;
+  width: 48%;
+}
